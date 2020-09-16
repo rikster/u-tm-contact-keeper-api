@@ -1,6 +1,4 @@
 # u-tm-contact-keeper-api
-<<<<<<< Updated upstream
-=======
 
 This is a Node/Express/MongoDB REST API for contacts that uses JWT authentication. All contact endpoints are protected and each registered user has their own contacts. This is used in my React course on Udemy. It is the API ONLY.
 
@@ -155,5 +153,3 @@ This is a Node/Express/MongoDB REST API for contacts that uses JWT authenticatio
           {
             "msg": "Contact removed"
           }
-
->>>>>>> Stashed changes
