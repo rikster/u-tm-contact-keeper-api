@@ -1,4 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://rich123:<password>@cluster0.arg06.mongodb.net/<dbname>?retryWrites=true&w=majority",
+	"mongoURI": "mongodb+srv://rich123:rich123@cluster0.arg06.mongodb.net/<dbname>?retryWrites=true&w=majority",
 	"jwtSecret": "secret"
 }
