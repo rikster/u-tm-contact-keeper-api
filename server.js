@@ -7,6 +7,7 @@ const app = express();
 connectDB();
 
 // Init Middleware
+// So we can accept body data
 app.use(express.json({ extended: false }));
 
 // Define Routes

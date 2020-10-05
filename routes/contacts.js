@@ -22,7 +22,7 @@ router.get('/', auth, async (req, res) => {
 });
 
 // @route    POST api/contacts
-// @desc     Create a contact
+// @desc     Add contact
 // @access   Private
 router.post(
 	'/',
