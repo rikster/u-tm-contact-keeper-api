@@ -18,7 +18,7 @@ const ContactSchema = new Schema({
 	},
 	type: {
 		type: String,
-		default: 'personal'
+		default: 'personal' //vs professional
 	},
 	date: {
 		type: Date,
