@@ -1,4 +1,4 @@
-// created w/ snippet 'rsc'
+// created w/ snippet 'rsc' (JB) or 'racf' (VSC)
 import React from 'react';
 import PropTypes from 'prop-types';
 
