@@ -21,6 +21,7 @@ const Register = props => {
     // eslint-disable-next-line
   }, [error, isAuthenticated, props.history]);
 
+  // useState is locally to the component
   const [user, setUser] = useState({
     name: '',
     email: '',
