@@ -2,6 +2,7 @@ import React, { useContext } from 'react';
 import AlertContext from '../../context/alert/alertContext';
 
 const Alerts = () => {
+  //useContext hook
   const alertContext = useContext(AlertContext);
 
   // alert types - danger, etc
